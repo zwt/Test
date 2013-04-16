@@ -5,11 +5,16 @@ public class Test {
 		System.out.println("test");
 	}
 	
+	
 	public void test(){}
 	
 	public void test2(){
 		System.out.println("------");
 	}
 	
+	public void fesh(){
+		System.out.println("---");
+		System.out.println("---22");
+	}
 	
 }
