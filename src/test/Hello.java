@@ -6,6 +6,8 @@ public class Hello {
 		System.out.println("Hello World! ");
 		
 		System.out.println("我也提交了");
+		//Test
+		System.out.println("否则");
 	}
 	
 }
