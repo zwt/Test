@@ -22,4 +22,8 @@ public class Test {
 		System.out.println("搞定git,简单使用了!");
 	}
 	
+	public void git(){
+		System.out.println("貌似搞定git");
+	}
+	
 }
