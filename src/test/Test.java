@@ -9,7 +9,7 @@ public class Test {
 	public void test(){}
 	
 	public void fesh(){
-		
+		System.out.println("---");
 		
 	}
 }
