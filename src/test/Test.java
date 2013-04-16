@@ -17,4 +17,8 @@ public class Test {
 		System.out.println("---22");
 	}
 	
+	public void git(){
+		System.out.println("ò�Ƹ㶨git");
+	}
+	
 }
