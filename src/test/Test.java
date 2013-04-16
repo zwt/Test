@@ -17,4 +17,9 @@ public class Test {
 		System.out.println("---22");
 	}
 	
+	
+	public void isOk(){
+		System.out.println("搞定git,简单使用了!");
+	}
+	
 }
