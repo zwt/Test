@@ -17,4 +17,8 @@ public class Hello {
 		
 	}
 	
+	public void tow(){
+		System.out.println("tow");
+	}
+	
 }
