@@ -21,4 +21,6 @@ public class Hello {
 		System.out.println("tow");
 	}
 	
+	public void add(){}
+	
 }
